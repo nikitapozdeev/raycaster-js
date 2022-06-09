@@ -1,5 +1,8 @@
 # raycaster-js 
-Exploring [raycasting](https://ru.wikipedia.org/wiki/Ray_casting) rendering in JS.
+Exploring [raycasting](https://ru.wikipedia.org/wiki/Ray_casting) rendering in JS. 
+
+Try [Demo](https://nikitapozdeev.github.io/raycaster-js/)
+
 ![Raycasting demo screencap](https://raw.github.com/nikitapozdeev/raycaster-js/master/screencap.gif)
 
 ## Movement
